@@ -1,0 +1,99 @@
+{"opinions":[
+    {
+        "name":"Thuraya Aldj",
+        "img":"img/c1.jpg",
+        "text":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis provident minus eveniet possimus vero illum id?"
+    },
+    {
+        "name":"some one",
+        "img":"img/c2.jpg",
+        "text":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis provident minus eveniet possimus vero illum id?"
+    },
+    {
+        "name":"Thuraya Aldj",
+        "img":"img/c3.jpg",
+        "text":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis provident minus eveniet possimus vero illum id?"
+    },
+    {
+        "name":"Ahmad 23",
+        "img":"img/c3.jpg",
+        "text":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis provident minus eveniet possimus vero illum id?"
+    },
+    {
+        "name":"Thuraya Aldj",
+        "img":"img/c3.jpg",
+        "text":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis provident minus eveniet possimus vero illum id?"
+    },
+    {
+        "name":"Thuraya Aldj",
+        "img":"img/c3.jpg",
+        "text":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis provident minus eveniet possimus vero illum id?"
+    }
+],
+"products":[
+
+    {
+        "name":"fruit_1",
+        "discription":"Fresh Items",
+        "img":"img/p1.png",
+        "price":"$5.9",
+        "discount":"-25%"
+    },
+    {
+        "name":"fruit_2",
+        "discription":"Fresh Items",
+        "img":"img/p2.png",
+        "price":"$5.9",
+        "discount":"-25%"
+    },
+    {
+        "name":"fruit_3",
+        "discription":"Fresh Items",
+        "img":"img/p3.png",
+        "price":"$5.9",
+        "discount":"-25%"
+    },
+    {
+        "name":"fruit_4",
+        "discription":"Fresh Items",
+        "img":"img/p4.png",
+        "price":"$5.9",
+        "discount":"-25%"
+    },
+    {
+        "name":"fruit_5",
+        "discription":"Fresh Items",
+        "img":"img/p5.png",
+        "price":"$5.9",
+        "discount":"-25%"
+    }
+
+],
+"categories":[
+    {
+        "name": "Fruits",
+        "img": "img/cate1.png",
+        "items": 20
+    },
+    {
+        "name": "Vegetables",
+        "img": "img/cate2.png",
+        "items": 22
+    },
+    {
+        "name": "Drinks",
+        "img": "img/cate3.png",
+        "items": 17
+    },
+    {
+        "name": "Fresh Nuts",
+        "img": "img/cate4.png",
+        "items": 52
+    },
+    {
+        "name": "Spices",
+        "img": "img/cate5.png",
+        "items": 10
+    }
+]
+}
